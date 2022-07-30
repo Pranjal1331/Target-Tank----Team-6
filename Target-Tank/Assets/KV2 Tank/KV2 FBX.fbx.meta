@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: cc8b39f83957efc40a95a68fe85cdfc4
+timeCreated: 1517537707
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Hull
+    100002: //RootNode
+    100004: Track Wheel B L
+    100006: Track Wheel F L
+    100008: Track Wheel F R
+    100010: Track Wheel R R
+    100012: Tracks
+    100014: Turret
+    100016: Wheel L
+    100018: Wheel L.001
+    100020: Wheel L.002
+    100022: Wheel L.003
+    100024: Wheel L.004
+    100026: Wheel L.005
+    100028: Wheel R
+    100030: Wheel R.001
+    100032: Wheel R.002
+    100034: Wheel R.003
+    100036: Wheel R.004
+    100038: Wheel R.005
+    100040: Left Track
+    100042: Right Track
+    100044: Cannon
+    400000: Hull
+    400002: //RootNode
+    400004: Track Wheel B L
+    400006: Track Wheel F L
+    400008: Track Wheel F R
+    400010: Track Wheel R R
+    400012: Tracks
+    400014: Turret
+    400016: Wheel L
+    400018: Wheel L.001
+    400020: Wheel L.002
+    400022: Wheel L.003
+    400024: Wheel L.004
+    400026: Wheel L.005
+    400028: Wheel R
+    400030: Wheel R.001
+    400032: Wheel R.002
+    400034: Wheel R.003
+    400036: Wheel R.004
+    400038: Wheel R.005
+    400040: Left Track
+    400042: Right Track
+    400044: Cannon
+    2300000: Hull
+    2300002: Track Wheel B L
+    2300004: Track Wheel F L
+    2300006: Track Wheel F R
+    2300008: Track Wheel R R
+    2300010: Tracks
+    2300012: Turret
+    2300014: Wheel L
+    2300016: Wheel L.001
+    2300018: Wheel L.002
+    2300020: Wheel L.003
+    2300022: Wheel L.004
+    2300024: Wheel L.005
+    2300026: Wheel R
+    2300028: Wheel R.001
+    2300030: Wheel R.002
+    2300032: Wheel R.003
+    2300034: Wheel R.004
+    2300036: Wheel R.005
+    2300038: Left Track
+    2300040: Right Track
+    2300042: Cannon
+    3300000: Hull
+    3300002: Track Wheel B L
+    3300004: Track Wheel F L
+    3300006: Track Wheel F R
+    3300008: Track Wheel R R
+    3300010: Tracks
+    3300012: Turret
+    3300014: Wheel L
+    3300016: Wheel L.001
+    3300018: Wheel L.002
+    3300020: Wheel L.003
+    3300022: Wheel L.004
+    3300024: Wheel L.005
+    3300026: Wheel R
+    3300028: Wheel R.001
+    3300030: Wheel R.002
+    3300032: Wheel R.003
+    3300034: Wheel R.004
+    3300036: Wheel R.005
+    3300038: Left Track
+    3300040: Right Track
+    3300042: Cannon
+    4300000: Hull
+    4300002: Turret
+    4300004: Track Wheel F R
+    4300006: Track Wheel R R
+    4300008: Track Wheel B L
+    4300010: Wheel L.005
+    4300012: Wheel L.004
+    4300014: Wheel L.003
+    4300016: Wheel L.002
+    4300018: Wheel L.001
+    4300020: Wheel R.005
+    4300022: Wheel R.004
+    4300024: Wheel R.003
+    4300026: Wheel R.002
+    4300028: Wheel R.001
+    4300030: Wheel L
+    4300032: Track Wheel F L
+    4300034: Wheel R
+    4300036: Tracks
+    4300038: Left Track
+    4300040: Right Track
+    4300042: Cannon
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 281fc71196020ab4d93975fd8eaedd47, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
